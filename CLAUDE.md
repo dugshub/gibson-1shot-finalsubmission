@@ -106,3 +106,6 @@ SplitReceipt is a full-stack application for managing shared expenses on trips:
 - Client-side API access attempts (keep all Gibson API calls server-side)
 - Not validating split percentages total 100%
 - Failing to handle split type changes correctly
+
+## Default User
+- Create a default login that will work without authentication so we can see the app. Add the credentials to the login screen so judges can interact with the app without registering 

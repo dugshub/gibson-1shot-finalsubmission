@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+      "gibson": {
+        "command": "uvx",
+        "args": ["--from", "gibson-cli@latest", "gibson", "mcp", "run"]
+      }
+    }
+}
